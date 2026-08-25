@@ -2,11 +2,11 @@
 
 A collection of custom dark metallic mesh desktop wallpapers featuring the official MX Linux logo with subtle backlit accents.
 
-<!--
-## 🖼️ Preview
--->
 
----
+## 🖼️ Preview
+![MX Green](1787694562789.png)
+
+--
 
 ## ⚙️ Specs
 
