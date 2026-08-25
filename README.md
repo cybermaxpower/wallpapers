@@ -12,7 +12,7 @@ A collection of custom dark metallic mesh desktop wallpapers featuring the offic
 
 * **Texture:** Perforated dark metal / brushed steel mesh
 * **Aspect Ratio:** 16:9 Widescreen
-* **Variants:** Electric Blue & Classic MX Green
+* **Variants:** Blue & Green
 * **Format:** Lossless / High-Quality JPEG
 
 ---
